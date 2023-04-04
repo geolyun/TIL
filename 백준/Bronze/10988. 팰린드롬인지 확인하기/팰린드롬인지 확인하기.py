@@ -1,6 +1,8 @@
 w = input()
 
-if w == w[::-1]:
-    print(1)
+for i in range(len(w)//2):
+    if w[i] != w[len(w)-1-i]:
+        print(0)
+        break
 else:
-    print(0)
+    print(1)
