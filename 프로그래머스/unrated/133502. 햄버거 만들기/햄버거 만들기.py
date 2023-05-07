@@ -8,5 +8,6 @@ def solution(ingredient):
         if ingredient[s:s+4] == ham:
             del ingredient[s:s+4]
             answer += 1
-            s = s-4
+            s = s-3
+            
     return answer
