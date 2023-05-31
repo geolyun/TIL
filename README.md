@@ -1,6 +1,7 @@
 # TIL
-Today I Learned :) 
-
+Today I Learned about Algorithm :)\
+매일 알고리즘 지식과 알고리즘을 푸는 방법에 대해 추가하는 리포입니다!\
+추가로 배우는 언어에 대해서도 추가할 예정입니다.
 
 
 # TIL 계획
